@@ -135,8 +135,6 @@ elif option == "Study Materials":
         )
 
     # ------------------------------------------------
-    # SEARCH
-    # ------------------------------------------------
 
     st.subheader("🔎 Find Study Material")
 
